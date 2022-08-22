@@ -1,0 +1,16 @@
+* Utilidades para Rolemaster
+
+Al organizar todo mi trastero digital me he encontrado con estas hojas de cálculo, que utilizaba para jugar a Rolemaster muchos años atrás y durante largo tiempo.
+
+Me da pena que se queden en el olvido, y por ello las pongo a disposición de la comunidad, por si a alguien le resulta tan útil como me lo fue a mí.
+
+El proyecto consta de dos hojas de cálculo en formato LibreOffice. En sus comienzos empezaron siendo parte de una base de datos MS Access con sus formularios, luego lo migré a MS Excel, posteriormente a StarOffice, a OpenOffice, a Google Spreadsheets, y finalmente, a LibreOffice. Las hojas de cálculo son las siguientes:
+
+- =personajes.ods=: Esta es la hoja de cálculo que solía utilizar para generar los personajes jugadores (y a veces los no jugadores). En principio creo que está bien documentada, al menos para el que esté familiarizado con el funcionamiento de una hoja de cálculo y las reglas de Rolemaster.
+- =combate.ods=: Esta hoja de cálculo comenzó siendo un asistente para el combate, para calcular daños y críticos. Por cierto, las tablas de críticos están escaneadas con un escáner de mano allá por 1995, por lo que la traducción a texto presenta serias deficiencias. No obstante, he ido corrigiendo algunos críticos y en general se entiende bien. Posteriormente añadí las tiradas para realizar maniobras estáticas y dinámicas, pues me dí cuenta que era otro tema recurrente en las partidas y que merecía la pena realizar el procedimiento bien, explicándoselo explícitamente a los jugadores para mayor disfrute de la estadística. Ttodos sabemos que al final el máster se suele fijar un umbral mentalmente sin recurrir a las tablas, lo que hace que los PJs ignoren la importancia de preparar una buena maniobra como saltar, trepar, fabricar flechas, etc.
+
+Y nada más, creo que con esto ya hay para empezar. No veo necesario escribir una documentación extensa.
+
+Como decía espero que a alguien le resulte de utilidad. 
+
+Por favor, no olvidéis respetar la licencia. Es importante para todos los usuarios de tecnologías libres.
